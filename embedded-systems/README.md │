@@ -16,3 +16,25 @@ An embedded system is a small computer inside a device.
 
 ## Goal
 Learn how hardware and software interact.
+
+# Embedded Systems – Day 2
+
+## What is Embedded System?
+
+A system where hardware + software work together.
+
+## Examples
+- Arduino
+- Smart devices
+- Car control systems
+
+## Key Components
+- Microcontroller
+- Sensors
+- Actuators
+
+## Importance
+Essential for robotics and automation.
+
+## Next Step
+- Learn Arduino basics
