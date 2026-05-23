@@ -47,3 +47,42 @@ goal = "Build AI + Robotics Systems"
 
 print(name)
 print(goal)
+
+# Day 3
+
+## Focus
+Building foundation in Python and structuring the deep-tech learning repository.
+
+## Topics Learned
+- Python basics:
+  - print statements
+  - variables
+  - basic data types (string, integer)
+- Introduction to:
+  - robotics systems
+  - AI concepts
+  - embedded systems
+  - vectors (math)
+
+## Work Done
+- Created structured folders:
+  - python
+  - robotics
+  - ai
+  - embedded-systems
+  - math
+  - resources
+  - projects
+- Added introductory notes in each domain
+- Wrote and tested first Python program
+
+## Code Practice
+
+```python
+print("Deep Tech Journey Started")
+
+name = "Mayank"
+age = 16
+
+print("Name:", name)
+print("Age:", age)
