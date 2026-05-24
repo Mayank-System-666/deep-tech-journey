@@ -86,3 +86,27 @@ age = 16
 
 print("Name:", name)
 print("Age:", age)
+
+# Day 3
+
+## Focus
+Learning Python input handling and basic decision-making using if-else statements.
+
+## Topics Learned
+- input() function
+- type conversion (string to integer)
+- if-else conditions
+- basic program logic
+
+## Work Done
+- Practiced taking user input
+- Converted input into integers
+- Wrote simple decision-based programs
+- Improved understanding of program flow
+
+## Code Practice
+
+### Example 1: Taking Input
+```python
+name = input("Enter your name: ")
+print("Hello", name)
