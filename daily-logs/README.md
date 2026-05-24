@@ -87,7 +87,7 @@ age = 16
 print("Name:", name)
 print("Age:", age)
 
-# Day 3
+# Day 4
 
 ## Focus
 Learning Python input handling and basic decision-making using if-else statements.
